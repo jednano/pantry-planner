@@ -1,6 +1,6 @@
 # Pantry Planner
 
-Integrated meal planner, pantry/storage tracker and shopping list for the [Windows 10 universal app platform](http://blogs.windows.com/buildingapps/2015/03/02/a-first-look-at-the-windows-10-universal-app-platform/).
+Integrated meal planner, recipe keeper, pantry/storage tracker and shopping list for the [Windows 10 universal app platform](http://blogs.windows.com/buildingapps/2015/03/02/a-first-look-at-the-windows-10-universal-app-platform/).
 
 ## Project goals
 
