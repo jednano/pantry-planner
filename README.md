@@ -13,8 +13,9 @@ Integrated meal planner, recipe keeper, pantry/storage tracker and shopping list
   - Share your favorite grocery store data with the community.
   - Synchronize data across devices with [OneDrive](https://onedrive.live.com/) and possibly other cloud services.
 - Phase 2: Pantry/storage tracker
-  - Add ingredients to your pantry and get notifications when they are about to spoil.
-  - Add household goods into storage and get notifications when running low.
+  - Add ingredients to your pantry, complete with nutrition information.
+  - Add other household goods to storage.
+  - Get notifications when ingredients are about to spoil or goods are running low.
   - Easily add expiring goods into the integrated shopping list.
 - Phase 3: Recipe keeper
   - Add your own recipes or get them from friends or family members.
@@ -24,7 +25,7 @@ Integrated meal planner, recipe keeper, pantry/storage tracker and shopping list
   - Build a shopping list from recipes and send them to the integrated shopping list.
   - Share recipes with friends or family members.
 - Phase 4: Meal planner
-  - Build a plan for recipes to cook over the next 1 or 2 weeks.
+  - Build a meal plan for recipes to cook over the next 1 or 2 weeks.
   - Maintain your nutritional goals by cooking within your calorie intake limits.
   - Save money shopping by planning meals according to ingredient families (e.g., Mexican food).
   - Add your meal plan to your calendar.
